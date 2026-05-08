@@ -1,0 +1,25 @@
+{
+  "name": "vehicle-scheduling-service",
+  "version": "1.0.0",
+  "description": "Vehicle maintenance scheduler microservice using the shared logging middleware",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test:schedule": "node testSchedule.js"
+  },
+  "keywords": [
+    "vehicle",
+    "maintenance",
+    "scheduler",
+    "express",
+    "logging"
+  ],
+  "author": "PoonamxGit",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

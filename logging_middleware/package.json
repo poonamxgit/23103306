@@ -1,0 +1,27 @@
+{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "description": "Comprehensive logging middleware for robust and observable applications",
+  "main": "loggingMiddleware.js",
+  "scripts": {
+    "start": "node example.js",
+    "test": "node test-api-client.js"
+  },
+  "keywords": [
+    "logging",
+    "middleware",
+    "express",
+    "api-client",
+    "monitoring",
+    "observability"
+  ],
+  "author": "PoonamxGit",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}

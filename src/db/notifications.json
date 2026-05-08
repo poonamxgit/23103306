@@ -1,0 +1,22 @@
+{
+  "notifications": [
+    {
+      "id": "d146095a-0d86-4a34-9e69-3900a14576bc",
+      "userId": "1042",
+      "type": "Result",
+      "message": "mid-sem",
+      "timestamp": "2026-04-22T17:51:30Z",
+      "isRead": false,
+      "priorityWeight": 4
+    },
+    {
+      "id": "e257106b-1e97-5b45-0f7a-4011b25687cd",
+      "userId": "1042",
+      "type": "Placement",
+      "message": "CSX Corporation hiring",
+      "timestamp": "2026-04-22T17:51:18Z",
+      "isRead": false,
+      "priorityWeight": 5
+    }
+  ]
+}
